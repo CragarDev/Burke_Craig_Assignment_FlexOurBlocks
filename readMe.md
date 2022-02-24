@@ -1,3 +1,3 @@
 # Craig Burke - FlexOurBlocks
 
-![GitHubBlock](./images/Burke_Craig_FlexOurBlocks.png)
+![FlexOurBlocks](./images/Burke_Craig_FlexOurBlocks.png)
